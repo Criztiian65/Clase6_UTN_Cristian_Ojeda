@@ -46,6 +46,7 @@ const Form = () => {
 
     return (
     <Flex bg='blue.100' justify='center'>
+      
       <Box >
 
         <Formik >
