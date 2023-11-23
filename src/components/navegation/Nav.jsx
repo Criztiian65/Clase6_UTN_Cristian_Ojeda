@@ -2,9 +2,9 @@ import { Box, Heading, Text } from '@chakra-ui/react'
 
 const Nav = () => {
   return (
-    <Heading bgColor={'blue.500'}>
+    <Heading bgColor={'#4e32b2'} >
     <Box>
-      <Text fontSize={'x-large'}>TP Clase 6</Text>
+      <Text fontSize={'4xl'}>TP Clase 6</Text>
     </Box>
 
     </Heading>

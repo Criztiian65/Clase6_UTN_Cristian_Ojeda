@@ -1,9 +1,9 @@
-import { Box } from '@chakra-ui/react'
+import { Box, Text } from '@chakra-ui/react'
 
 const Footer = () => {
   return (
-    <Box bgColor={'blue.500'}>
-      footer
+    <Box textAlign={'center'} bgColor={'#4e32b2'} >
+      <Text fontFamily='Roboto'>Todos los derechos reservados </Text>
     </Box>
   )
 }
