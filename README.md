@@ -1,8 +1,12 @@
-# React + Vite
+En este trabajo practico me dedique a construir un formulario de registro donde se validan los datos antes de ser enviados al back-end.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Para levantar el proyecto ingresar el siguiente codigo:
 
-Currently, two official plugins are available:
+npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para el trabajo utilice las dependencias de Formik, Chakra UI y yup. Posiblemente más adelante utilize frame motion para animar acciones de botones y/o algun icono al enviar el formulario.
+
+Sin duda las validaciones pueden mejorar, cuestión de aprender más acerca de yup y de la sintaxis de regex, ya que es una herramienta muy valiosa a la hora de validar.
+
+Se intento hacer lo más responsive posible en el corto tiempo que tuve de trabajo.
+
