@@ -1,6 +1,9 @@
 En este trabajo practico me dedique a construir un formulario de registro donde se validan los datos antes de ser enviados al back-end.
 
-Para levantar el proyecto ingresar el siguiente codigo:
+En el siguiente link se encuentra el deploy:
+[Deploy](https://eclectic-starlight-f32fa4.netlify.app/)
+
+Si descargas el proyecto para levantarlo ingresar en la consola el siguiente codigo:
 
 npm run dev
 
